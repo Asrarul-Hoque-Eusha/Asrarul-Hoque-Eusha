@@ -16,12 +16,12 @@
 - 💬 Ask me about OOP, Problem-Solving, Python, Machine Learning, and Deep Learning.
 - 📫 How to reach me: asrar2860@gmail.com.
 
-## Connect with me:
+#### Connect with me:
 
 
 
 ## Languages and Tools:
-### Languages and Tools:
+#### Languages and Tools:
 <img src="[URL_to_C_favicon](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png)" alt="C" width="20" height="20"/> 
 <img src="[URL_to_C++_favicon](https://www.flaticon.com/free-icon/c_6132222)" alt="C++" width="20" height="20"/> 
 <img src="URL_to_TensorFlow_favicon" alt="TensorFlow" width="20" height="20"/> 
