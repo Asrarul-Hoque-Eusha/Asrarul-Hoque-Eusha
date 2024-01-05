@@ -20,9 +20,8 @@
 
 
 
-## Languages and Tools:
 #### Languages and Tools:
-<img src="[URL_to_C_favicon](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png)" alt="C" width="20" height="20"/> 
+<img src=<i class="fa-solid fa-filter"></i> alt="C" width="20" height="20"/> 
 <img src="[URL_to_C++_favicon](https://www.flaticon.com/free-icon/c_6132222)" alt="C++" width="20" height="20"/> 
 <img src="URL_to_TensorFlow_favicon" alt="TensorFlow" width="20" height="20"/> 
 - C, C++, Python, Java, HTML5, CSS3, Tensorflow, Numpy, Pandas, PyTorch
