@@ -15,3 +15,14 @@
 - 🤔 I’m looking for help with **Problem-solving, Machine Learning, and Deep Learning**.
 - 💬 Ask me about OOP, Problem-Solving, Python, Machine Learning, and Deep Learning.
 - 📫 How to reach me: asrar2860@gmail.com.
+
+## Connect with me:
+
+
+
+## Languages and Tools:
+### Languages and Tools:
+<img src="[URL_to_C_favicon](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png)" alt="C" width="20" height="20"/> C Programming Language
+<img src="URL_to_C++_favicon" alt="C++" width="20" height="20"/> C++ Programming Language
+<img src="URL_to_TensorFlow_favicon" alt="TensorFlow" width="20" height="20"/> TensorFlow
+- C, C++, Python, Java, HTML5, CSS3, Tensorflow, Numpy, Pandas, PyTorch
