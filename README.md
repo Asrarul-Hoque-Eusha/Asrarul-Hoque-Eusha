@@ -1,8 +1,8 @@
 <div align="center">
-### Hi, I am Asrarul Hoque Eusha
+<h1> Hi, I am Asrarul Hoque Eusha</h1>
 </div>
 <div align="center">
-##### I am an CS Undergrad Student, Competitive Programmer, and ML Enthusiast.
+<h2>I am an CS Undergrad Student, Competitive Programmer, and ML Enthusiast.</h2> 
 </div>
 
 Here are some ideas to get you started:
