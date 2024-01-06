@@ -6,8 +6,6 @@
 </div>
 <br>
 <br>
-<br>
-
 
 - 🔭 I’m currently studying in the last semester of my BSc in **Computer Science and Engineering**.
 - 🌱 I’m currently learning **Machine Learning and Deep Learning** from Coursera by Standford.
@@ -16,9 +14,10 @@
 - 💬 Ask me about OOP, Problem-Solving, Python, Machine Learning, and Deep Learning.
 - 📫 How to reach me: asrar2860@gmail.com.
 
-#### Connect with me:
-
-
-
 #### Languages and Tools: 
 - C, C++, Python, Java, HTML5, CSS3, Tensorflow, Numpy, Pandas, PyTorch
+
+#### Connect with me:
+[StopStalk](https://www.stopstalk.com/user/profile/hipnotic_x_lior), [LeetCode](https://leetcode.com/hipnotic_x_lior/)
+
+
