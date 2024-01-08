@@ -18,6 +18,13 @@
 - C, C++, Python, Java, HTML5, CSS3, Tensorflow, Numpy, Pandas, PyTorch
 
 #### Connect with me:
-[StopStalk](https://www.stopstalk.com/user/profile/hipnotic_x_lior), [LeetCode](https://leetcode.com/hipnotic_x_lior/)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asrarul Hoque Eusha" height="30" width="40" />][Linkedin]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Quixotic37" height="30" width="40" />][CodeForces]
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hipnotic_x_lior" height="30" width="40" />][LeetCode]
+
+
+[Linkedin]: https://www.linkedin.com/in/asrarul-hoque-eusha-a51438249/ 
+[CodeForces]: https://codeforces.com/profile/Quixotic37
+[LeetCode]: https://leetcode.com/hipnotic_x_lior/
 
 
