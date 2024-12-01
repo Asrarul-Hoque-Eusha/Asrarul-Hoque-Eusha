@@ -2,12 +2,12 @@
 <h1> Hi, I am Asrarul Hoque Eusha</h1>
 </div>
 <div align="center">
-<span style="font-size: 18px;">I am a CS Undergrad Student, Competitive Programmer, and ML Enthusiast.</span> 
+<span style="font-size: 18px;">I am a fresh CS graduate, Competitive Programmer, and ML Enthusiast.</span> 
 </div>
 <br>
 <br>
 
-- 🔭 I’m a fresh graduate from CUET in **Computer Science and Engineering**.
+- 🔭 I’m a fresh graduate from CUET in **Computer Science and Engineering** seeking a Software Engineering role within a prominent software company..
 - 🌱 I’m learning Java **Spring Boot** from different online resources.
 - 🌱 I’ve learned **Machine Learning and Deep Learning** from Coursera by Standford.
 - 👯 I’m looking to collaborate on different *real-world problem-solving projects* to apply my knowledge.
