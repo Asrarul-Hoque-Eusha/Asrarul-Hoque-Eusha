@@ -7,8 +7,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently studying in the last semester of my BSc in **Computer Science and Engineering**.
-- 🌱 I’m currently learning **Machine Learning and Deep Learning** from Coursera by Standford.
+- 🔭 I’m a fresh graduate from CUET in **Computer Science and Engineering**.
+- 🌱 I’m learning Java **Spring Boot** from different online resources.
+- 🌱 I’ve learned **Machine Learning and Deep Learning** from Coursera by Standford.
 - 👯 I’m looking to collaborate on different *real-world problem-solving projects* to apply my knowledge.
 - 🤔 I’m looking for help with **Problem-solving, Machine Learning, and Deep Learning**.
 - 💬 Ask me about OOP, Problem-Solving, Python, Machine Learning, and Deep Learning.
