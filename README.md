@@ -2,7 +2,7 @@
 <h1> Hi, I am Asrarul Hoque Eusha</h1>
 </div>
 <div align="center">
-<span style="font-size: 18px;">I am a fresh CS graduate, Competitive Programmer, and ML Enthusiast.</span> 
+<span style="font-size: 18px;">I am an ML Engineer, CS graduate, Competitive Programmer, and ML Enthusiast.</span> 
 </div>
 <br>
 <br>
