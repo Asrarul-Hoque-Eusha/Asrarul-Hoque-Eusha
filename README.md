@@ -10,8 +10,8 @@
 - 🔭 I’m a fresh graduate from CUET in **Computer Science and Engineering** seeking a Software Engineering role within a prominent software company..
 - 🌱 I’m learning Java **Spring Boot** from different online resources.
 - 🌱 I’ve learned **Machine Learning and Deep Learning** from Coursera by Standford.
-- 🌱 Learned RAG, Vector database, LLMs and applied them to solve real world problems.
-- 🌱 Completed projects using technologies like ReactJs, TailwindCSS, FastAPI, and Python.
+- 🌱 Learned **RAG, Vector database, LLMs** and applied them to solve real world problems.
+- 🌱 Completed projects using technologies like **ReactJs, TailwindCSS, FastAPI, and Python**.
 - 👯 I’m looking to collaborate on different *real-world problem-solving projects* to apply my knowledge.
 - 🤔 I’m looking for help with **Problem-solving, Machine Learning, and Deep Learning**.
 - 💬 Ask me about OOP, Problem-Solving, Python, Machine Learning, and Deep Learning.
